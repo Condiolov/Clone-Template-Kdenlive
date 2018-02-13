@@ -1,5 +1,5 @@
 # Clone-Template-Kdenlive
-# Scritp para criar um novo projeto Kdenlive a partir de um modelo
+# Script para criar um novo projeto Kdenlive a partir de um modelo
 
 AUTOR: Viniciusalopes
 
