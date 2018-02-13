@@ -10,6 +10,7 @@ OBJETVO: Criar novo projeto Kdenlive a partir de um modelo.
 VERSÃO: 0.1
 
 <b>OPA! Belesma?</b>
+
 O <b>Kdenlive</b> é um software poderosíssimo para produção de vídeos para as mais variadas finalidades.
 
 Visto que não encontrei uma solução para o <b>gerenciamento de templates</b> que fosse automatizada dentro do próprio Kdenlive,
