@@ -14,7 +14,7 @@ VERSÃO: 0.1
 O <b>Kdenlive</b> é um software poderosíssimo para produção de vídeos para as mais variadas finalidades.
 
 Visto que não encontrei uma solução para o <b>gerenciamento de templates</b> que fosse automatizada dentro do próprio Kdenlive,
-desenvolvi este <b>script bash</b> somente com programas para <b>GNU/Linux</b>.
+desenvolvi este <b>script bash</b> somente com programas para <b>Linux</b>.
 
 Este script clona <b>automaGicamente</b> um projeto do Kdenlive, em ambiente gráfico, sem a necessidade de manipular arquivos.
 
