@@ -47,7 +47,7 @@ iniciar_texto="<b>OPA! Belesma?</b>\n\n\
 O <b>Kdenlive</b> é um software poderosíssimo para produção de vídeos para as \
 mais variadas finalidades.\nVisto que não encontrei uma solução para o <b>gere\
 nciamento de templates</b> que fosse automatizada\ndentro do próprio Kdenlive,\
- desenvolvi este <b>script bash</b> somente com programas para <b>GNU/Linux</b\
+ desenvolvi este <b>script bash</b> somente com programas para <b>Linux</b\
 >.\n\nEste script clona <b>automaGicamente</b> um projeto do Kdenlive, em ambi\
 ente gráfico, sem a necessidade\nde manipular arquivos.\n\nO <b>resultado</b> \
 é o aproveitamento de cofigurações, arquivos e bibliotecas, integridade das re\
